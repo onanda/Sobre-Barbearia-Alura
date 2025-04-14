@@ -1,22 +1,19 @@
-body [
-    background: #cccccc
-]
-
-h1 [
-    text-align: center
-]
-
-p[
-    text-align: center;
-]
-
-em strong {
-    color: #FF0000;
+body {
+    background-color:  #cccccc
 }
 
-
-    
- 
-p[
+h1 {
     text-align: center
-]
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+
+}
+
+em strong {
+    color: #ff0000;
+}
